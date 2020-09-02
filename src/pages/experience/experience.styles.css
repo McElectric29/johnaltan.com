@@ -17,8 +17,8 @@
 }
 
 .card {
-  max-width: 430px;
   margin: 2em;
+  max-width: 430px;
   /* margin-left: 2em;
   margin-right: 2em; */
   background: rgba(255, 255, 255, 0.918);
