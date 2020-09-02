@@ -5,13 +5,13 @@
 }
 
 .profile {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 90%;
+  max-height: 90%;
   margin: 1px;
 }
 
 .my-details {
-  max-width: 100%;
+  max-width: 90%;
   margin: 10px;
   background-image: linear-gradient(to right, #f5f7fa, #c3cfe2);
 }
