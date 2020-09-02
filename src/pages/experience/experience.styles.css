@@ -1,5 +1,6 @@
 .img-resize {
   width: 10em;
+  max-width: 100%;
 }
 
 .style {
