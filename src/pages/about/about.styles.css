@@ -1,0 +1,13 @@
+.about {
+  background-color: transparent;
+  font-size: 1.1em;
+  font-family: "Helvetica";
+}
+
+.profile {
+  max-width: 25em;
+}
+
+.my-details {
+  background-image: linear-gradient(to right, #f5f7fa, #c3cfe2);
+}

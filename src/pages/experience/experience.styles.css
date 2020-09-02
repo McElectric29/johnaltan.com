@@ -1,0 +1,26 @@
+.img-resize {
+  width: 10em;
+}
+
+.style {
+  font-size: 20px;
+}
+#xpContainer {
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+}
+.jumbo-style {
+  background: transparent;
+  /* background-image: linear-gradient(to right, #c33764, #1d2671); */
+}
+
+.card {
+  margin-left: 2em;
+  margin-right: 2em;
+  background: rgba(255, 255, 255, 0.918);
+}
+.body-title-style {
+  font-size: 25px;
+  font-weight: 800;
+}
