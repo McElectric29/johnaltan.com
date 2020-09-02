@@ -24,3 +24,9 @@ hr {
   height: 100%;
   z-index: 1;
 }
+
+body {
+  width: 100%;
+  display: flex;
+  overflow-x: hidden;
+}

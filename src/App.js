@@ -9,7 +9,6 @@ import Experience from "./pages/experience/experience.component";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
 import ContactForm from "./pages/contact-form/contact-form.component";
-import { Parallax } from "react-parallax";
 import Particles from "react-particles-js";
 import { particlesOptions } from "./particlesOptions";
 import FooterPanel from "./components/footer/footer.component";

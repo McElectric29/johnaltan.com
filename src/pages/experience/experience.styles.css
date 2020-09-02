@@ -8,7 +8,8 @@
 #xpContainer {
   display: flex;
   flex-direction: row;
-  flex-shrink: 1;
+  flex-wrap: wrap;
+  flex: 1;
 }
 .jumbo-style {
   background: transparent;
@@ -16,8 +17,10 @@
 }
 
 .card {
-  margin-left: 2em;
-  margin-right: 2em;
+  margin: 2em;
+  max-width: 430px;
+  /* margin-left: 2em;
+  margin-right: 2em; */
   background: rgba(255, 255, 255, 0.918);
 }
 .body-title-style {
