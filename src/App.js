@@ -35,11 +35,11 @@ const App = () => {
           </Container>
         </div>
       </div>
-      <Container className="container-box rounded">
+      {/* <Container className="container-box rounded">
         <Slide bottom duration={500}>
           <hr />
         </Slide>
-      </Container>
+      </Container> */}
       {/* <div>
         <Container className="container-box rounded">
           <Fade duration={500}>
