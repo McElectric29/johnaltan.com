@@ -1,6 +1,6 @@
 .img-resize {
-  max-width: 15vw;
-  max-height: 20vh;
+  width: 10em;
+  max-height: 10em;
 }
 
 .style {
@@ -8,8 +8,6 @@
 }
 #xpContainer {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
 }
 .jumbo-style {
   background: transparent;
@@ -17,8 +15,6 @@
 }
 
 .card {
-  max-width: 30vw;
-  margin-top: 2em;
   margin-left: 2em;
   margin-right: 2em;
   background: rgba(255, 255, 255, 0.918);
@@ -26,4 +22,13 @@
 .body-title-style {
   font-size: 25px;
   font-weight: 800;
+}
+
+@media screen and (max-width: 990px) {
+  #xpContainer {
+    flex-wrap: wrap;
+  }
+  .card {
+    margin-bottom: 2em;
+  }
 }

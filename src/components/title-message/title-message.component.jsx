@@ -2,6 +2,8 @@ import React from "react";
 import Typewriter from "typewriter-effect";
 import styled from "styled-components";
 
+import "./title-message.styles.css";
+
 const MyTitleMessage = styled.h1`
   position: absolute;
   width: 100%;
@@ -9,9 +11,8 @@ const MyTitleMessage = styled.h1`
   z-index: 1;
   margin-top: -125px;
   text-align: center;
-  max-width: 80%;
   strong {
-    font-size: 1.25em;
+    font-size: 75%;
   }
   div {
     color: white;
@@ -20,7 +21,7 @@ const MyTitleMessage = styled.h1`
     letter-spacing: 7px;
 
     .main {
-      font-size: 50px;
+      font-size: 1.25em;
     }
 
     .sub {
