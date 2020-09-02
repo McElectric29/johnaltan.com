@@ -32,7 +32,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                build 6 My name is <strong>&nbsp;John Altankhuyag</strong>
+                build 7 My name is <strong>&nbsp;John Altankhuyag</strong>
                 <br />A passionate student majoring in Computer Science at
                 Stanford University. I love learning about new topics and skill
                 sets in tech and applying them to software across all platforms
