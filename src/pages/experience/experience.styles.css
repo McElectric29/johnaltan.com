@@ -1,5 +1,5 @@
 .img-resize {
-  width: 10em;
+  max-width: 10em;
   max-height: 10em;
 }
 
@@ -27,8 +27,10 @@
 @media screen and (max-width: 990px) {
   #xpContainer {
     flex-wrap: wrap;
+    margin-left: 0;
   }
   .card {
+    margin: auto;
     margin-bottom: 2em;
   }
 }

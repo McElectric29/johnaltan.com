@@ -5,7 +5,7 @@ import "./my-navbar.styles.css";
 
 const MyNavbar = () => {
   return (
-    <div>
+    <div className="navbar">
       <Navbar
         fixed="top"
         variant="dark"

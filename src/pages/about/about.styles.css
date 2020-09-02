@@ -6,11 +6,19 @@
 
 .profile {
   max-height: 50vh;
-  margin: 1px;
 }
 
 .my-details {
   max-width: 67vw;
   padding: 2em;
   background-image: linear-gradient(to right, #f5f7fa, #c3cfe2);
+}
+
+@media screen and (max-width: 990px) {
+  .profile {
+    margin-left: 7vw;
+  }
+  .my-details {
+    margin: auto;
+  }
 }
