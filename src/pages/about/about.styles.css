@@ -5,9 +5,12 @@
 }
 
 .profile {
-  max-width: 25em;
+  max-width: 100%;
+  margin: 1px;
 }
 
 .my-details {
+  max-width: 100%;
+  margin: 10px;
   background-image: linear-gradient(to right, #f5f7fa, #c3cfe2);
 }

@@ -25,7 +25,8 @@ hr {
   z-index: 1;
 }
 
-body {
+body,
+html {
   width: 100%;
   display: flex;
   overflow-x: hidden;
