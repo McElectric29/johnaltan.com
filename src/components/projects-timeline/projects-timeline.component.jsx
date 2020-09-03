@@ -20,6 +20,9 @@ import portfolio from "../../assets/img/projects/website.png";
 import smartprimer from "../../assets/img/projects/smartprimer.jpg";
 
 import greenhrm from "../../assets/img/projects/greenhrm.png";
+import hrm1 from "../../assets/img/projects/hrm1.png";
+import hrm2 from "../../assets/img/projects/hrm2.png";
+import hrm3 from "../../assets/img/projects/hrm3.png";
 
 import snackchat from "../../assets/img/projects/snackchatsc.png";
 import snackchat1 from "../../assets/img/projects/snackchat1.png";
@@ -377,7 +380,8 @@ const TimeLine = () => {
                           </li>
                           <li>
                             Built features, like Log-in, update info,
-                            scheduling, all fully integrated with server
+                            scheduling, attendance all fully integrated with
+                            server
                           </li>
                           <li>
                             User personalized settings for the platform, such as
@@ -390,29 +394,22 @@ const TimeLine = () => {
                           <Carousel.Item>
                             <img
                               className="d-block w-100 spy-img"
-                              src={greenhrm}
+                              src={hrm3}
                               alt="First slide"
                             />
                           </Carousel.Item>
                           <Carousel.Item>
                             <img
                               className="d-block w-100 spy-img"
-                              src={greenhrm}
+                              src={hrm2}
                               alt="Third slide"
                             />
                           </Carousel.Item>
                           <Carousel.Item>
                             <img
                               className="d-block w-100 spy-img"
-                              src={greenhrm}
+                              src={hrm1}
                               alt="Third slide"
-                            />
-                          </Carousel.Item>
-                          <Carousel.Item>
-                            <img
-                              className="d-block w-100 spy-img"
-                              src={greenhrm}
-                              alt="Fourth slide"
                             />
                           </Carousel.Item>
                         </Carousel>

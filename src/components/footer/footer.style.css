@@ -5,4 +5,5 @@
   border: 2px solid #101018f8;
   border-top-left-radius: 3px;
   max-width: 100%;
+  padding: 0 0 0px !important;
 }
