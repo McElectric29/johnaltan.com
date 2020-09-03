@@ -42,7 +42,7 @@ const Experience = () => {
                   <Card.Title className="text-center">ITZONE LLC</Card.Title>
                 </div>
                 <div>
-                  <Card.Text className="text-center style">
+                  <Card.Text className="text-left style">
                     <strong className="body-title-style ">
                       Software Engeering Intern
                     </strong>
@@ -95,8 +95,8 @@ const Experience = () => {
                   </Card.Title>
                 </div>
                 <div>
-                  <Card.Text className="text-center style">
-                    <strong className="body-title-style ">
+                  <Card.Text className="text-left style">
+                    <strong className="text-center body-title-style ">
                       Research Software Developer
                     </strong>
                     <br />

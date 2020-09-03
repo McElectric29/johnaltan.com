@@ -244,19 +244,19 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> A portfolio website
-                        designed and built by me, entirely using React.
+                        <strong>Description:</strong> A responsive portfolio
+                        website designed and built by me, entirely using React.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
-                          <li>Bootstrap</li>
+                          <li>Responsive design</li>
                           <li>Gradient color design</li>
                           <li>Interactive motion</li>
                         </ul>
                         <hr />
                         <div id="link-button" className="m-2 text-center">
                           <a
-                            href="https://github.com/StanfordHCI/family-centered/tree/image-processing"
+                            href="https://github.com/McElectric29/McElectric29.github.io"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
