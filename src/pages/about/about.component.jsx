@@ -4,6 +4,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about.styles.css";
 import Profile from "../../assets/img/profile/profile.jpg";
+import Resume from "../../assets/documents/johnaltankhuyag.pdf";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
@@ -32,7 +33,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                build 7 My name is <strong>&nbsp;John Altankhuyag</strong>
+                My name is <strong>&nbsp;John Altankhuyag</strong>
                 <br />A passionate student majoring in Computer Science at
                 Stanford University. I love learning about new topics and skill
                 sets in tech and applying them to software across all platforms
@@ -53,11 +54,7 @@ const About = () => {
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
-                    <a
-                      href="https://drive.google.com/file/d/1MOzv1uAOadz1H8F8apv50F9RHTeTZHiu/view?usp=sharing"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
+                    <a href={Resume} target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>

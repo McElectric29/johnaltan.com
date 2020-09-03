@@ -5,7 +5,7 @@
 }
 
 .profile {
-  max-height: 50vh;
+  max-height: 60vh;
 }
 
 .my-details {
@@ -15,6 +15,7 @@
 @media screen and (max-width: 990px) {
   .profile {
     margin-left: 7vw;
+    max-height: 40vh;
   }
   .my-details {
     max-width: 80vw;
