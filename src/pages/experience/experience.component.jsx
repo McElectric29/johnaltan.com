@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
 import ITZONE from "../../assets/img/experience/itzone.jpg";
-import HCI from "../../assets/img/experience/hcifinal.png";
+import TIKTOK from "../../assets/img/experience/tiktok.png";
 import Tilt from "react-tilt";
 import "./experience.styles.css";
 
@@ -34,7 +34,7 @@ const Experience = () => {
               </Card.Header>
               <Card.Body
                 style={{
-                  background: "linear-gradient(to right, #f5f7fa,   #c3cfe2)",
+                  background: "linear-gradient(to right, #f5f7fa, #c3cfe2)",
                 }}
                 className="d-flex justify-content-center flex-column"
               >
@@ -43,23 +43,21 @@ const Experience = () => {
                 </div>
                 <div>
                   <Card.Text className="text-left style">
-                    <strong className="body-title-style ">
+                    <strong className="body-title-style">
                       Software Engeering Intern
                     </strong>
                     <br />
                     <br />
-                    <strong>Description:</strong>{" "}
-                    <strong>Developed & enhanced multiple features</strong> with
+                    Developed & enhanced multiple features with
                     full customizability option across{" "}
-                    <strong>HRM web platform</strong> used by{" "}
-                    <strong>top companies</strong> in Mongolia. Designed and
-                    built <strong>Front-End</strong> for key features and
-                    integrated it with back-end servers. Debugged existing code
-                    to solve problems and worked in deploying a full-scale
-                    product.
+                    <strong>HRM web platform</strong> used by{" "} multiple{" "}
+                    <strong>top 10 companies</strong> in Mongolia. Designed and
+                    built a <strong>Front-End interface</strong> with key features and
+                    integrated it with back-end servers. Made major contributions
+                    in deploying a full-scale product.
                     <br />
                     <br />
-                    <strong>Technology:</strong> Java, C++, React, NodeJS
+                    <strong>Technology:</strong> Python, C++, React.js, Node.js
                     <br />
                     <strong>Duration:</strong> Jul 2018 - Oct 2018 (ITZONE)
                     <br />
@@ -72,56 +70,51 @@ const Experience = () => {
           <Tilt options={{ max: 10 }}>
             <Card>
               <Card.Header
-                style={{ background: "#f38251" }}
+                style={{ background: "#000000" }}
                 as="h5"
                 className="d-flex justify-content-center flex-wrap"
               >
                 <Card.Img
                   variant="top"
                   className="img-resize"
-                  src={HCI}
-                  alt="Accenture logo"
+                  src={TIKTOK}
+                  alt="tiktok logo"
                 />
               </Card.Header>
               <Card.Body
                 style={{
-                  background: "linear-gradient(to right, #feada6, #f5efef)",
+                  background: "linear-gradient(to right, #EBE8FC, #C0AFE2)",
                 }}
                 className="d-flex justify-content-center flex-column"
               >
                 <div>
                   <Card.Title className="text-center">
-                    Stanford EduTech Project
+                    TIKTOK INC
                   </Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-left style">
                     <strong className="text-center body-title-style ">
-                      Research Software Developer
+                      Software Engineering Intern
                     </strong>
                     <br />
                     <br />
-                    <strong>Description:</strong>{" "}
-                    <strong>Designed & built a complete phone app</strong> from
-                    the ground up. Built and implemented advanced
-                    functionalities, such as{" "}
-                    <strong>
-                      Firebase Visual Recognition, ML color classifier, and NLP
-                      ChatBot with Voice Recognition
-                    </strong>
-                    . Ran user research with consumers and worked on iterative
-                    design and development.
+                    With focus on <strong>Backend Infrastructure</strong>, brought key improvements to enhance 
+                    DevOps architecture through new tools, automated continuous testing, and 
+                    disaster recovery. Designed and built a <strong>fully automated</strong> integration test coverage 
+                    tool that is <strong>used daily by TikTok</strong> to monitor reliability across all its services.
                     <br />
                     <br />
                     <br />
-                    <strong>Technology:</strong> Java, Kotlin, Firebase
+                    <strong>Technology:</strong> Go, CDaaS, Git, Grafana
                     <br />
-                    <strong>Duration:</strong> Jun 2020 - Sep 2020
+                    <strong>Duration:</strong> Jun 2021 - Sep 2021
                   </Card.Text>
                 </div>
               </Card.Body>
             </Card>
           </Tilt>
+          
         </Container>
       </Jumbotron>
     </div>

@@ -33,24 +33,28 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                My name is <strong>&nbsp;John Altankhuyag</strong>
-                <br />A passionate student majoring in Computer Science at
-                Stanford University. I love learning about new topics and skill
-                sets in tech and applying them to software across all platforms
-                and consumers.
+                Hi there! My name is <strong>&nbsp;John Altankhuyag.</strong>
+                <br /> You have found yourself at the portfolio website of a
+                passionate coder and engineer! I am currently studying Computer Science,
+                with concentrated courses in Systems and HCI, at Stanford University.
                 <br />
                 <br />
-                I enjoy tackling challenging problems and figuring out creative
-                and innovative ways to approach it with technology and design.
-                My current topics of interest range from data structures and
-                optimization to Artificial Intelligence and Machine Learning.
+                My most recent job experience was Software Engineering Intern at Tiktok.
+                My plan is to graduate June 2022, when I will transition to full-time employment
                 <br />
                 <br />
-                As a developer, I excel at learning and adapting to new and
-                trending stacks. My current expertise include applying
-                interactive and motion web design through HMTL, CSS, and React;
-                building back-end with NodeJS and Python; iOS and Android dev
-                through React Native, Swift, and Java/Kotlin.
+                My expertise covers software engineering in: 
+                <br />
+                - Back-end (Infrastructure, Networking, Database)
+                <br />
+                - Front-end (React, Javascript, Figma)
+                <br />
+                - Mobile (React Native, Flutter).  
+                <br />
+                <br />
+                I am always looking to work on exciting products and projects with
+                others to learn and to improve as a developer and an engineer. If you have
+                a position or idea that could use my experience, please reach out to me!
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
