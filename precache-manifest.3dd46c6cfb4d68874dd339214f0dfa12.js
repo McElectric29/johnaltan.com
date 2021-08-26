@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5db2a0e5dbe562906ad50549ecc4712",
+    "revision": "6a2981be4d713e9df5e74150ed65f1df",
     "url": "/index.html"
   },
   {
-    "revision": "2850b0f6eb1fbbe37402",
-    "url": "/static/css/main.1088c271.chunk.css"
+    "revision": "84d0d38d06c757e46458",
+    "url": "/static/css/main.038e2722.chunk.css"
   },
   {
     "revision": "6a4d062405cb6766e8dd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f9bc1496.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2850b0f6eb1fbbe37402",
-    "url": "/static/js/main.26ea2b49.chunk.js"
+    "revision": "84d0d38d06c757e46458",
+    "url": "/static/js/main.57dc92e3.chunk.js"
   },
   {
     "revision": "fbe05e49fb1621333d72",
@@ -60,10 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/greenhrm.cd30d37b.png"
   },
   {
-    "revision": "834804ccc9f7eb68435f46be44dd09d2",
-    "url": "/static/media/hcifinal.834804cc.png"
-  },
-  {
     "revision": "727495c5e88174299b6445cc208e0d8d",
     "url": "/static/media/hrm1.727495c5.png"
   },
@@ -80,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/itzone.3ab832ae.jpg"
   },
   {
-    "revision": "fdf3cfc84454c2d1b4f1188547550dff",
-    "url": "/static/media/johnaltankhuyag.fdf3cfc8.pdf"
+    "revision": "6ae774d230b5eb7590787761881e4c4c",
+    "url": "/static/media/johnaltankhuyag.6ae774d2.pdf"
   },
   {
-    "revision": "7308a85712f95581e6bb830f940eb7f7",
-    "url": "/static/media/profile.7308a857.jpg"
+    "revision": "553520181f220544b91aa373ac1aeb59",
+    "url": "/static/media/profile.55352018.jpg"
   },
   {
     "revision": "b1acb5770dbd62f9a6fdb3cad2f98855",
@@ -106,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6c1bc6731cca6702fb8a1dc2084e259",
     "url": "/static/media/snackchatsc.d6c1bc67.png"
+  },
+  {
+    "revision": "ed2f22443aa6e756ab2fadb6999b48fe",
+    "url": "/static/media/tiktok.ed2f2244.png"
   },
   {
     "revision": "f324e820bd3cec0c3573fa0f662a993d",
